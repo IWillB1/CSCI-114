@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Airplane
+comment0.text=\n\ <h2>Airplane.java\ -\ Write\ a\ program\ to\ assign\ passenger's\ seats\ in\ a\ small\ airplane.</h2>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 8,\ Homework\ Project\ 2\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=airplaneSeats
+comment2.target=boolean\ getInput(char[][])
+comment3.params=airplaneSeats\ rowNumber
+comment3.target=boolean\ isRowFull(char[][],\ int)
+comment4.params=airplaneSeats\ row\ column
+comment4.target=void\ assignSeat(char[][],\ int,\ char)
+comment5.params=airplaneSeats\ row\ column
+comment5.target=boolean\ isSeatTaken(char[][],\ int,\ char)
+comment6.params=column
+comment6.target=int\ seatColumnAsNumber(char)
+comment7.params=airplaneSeats
+comment7.target=void\ displaySeating(char[][])
+numComments=8

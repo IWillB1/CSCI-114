@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LetterCounter
+comment0.text=\n\ <h2>LetterCounter.java\ -\ Calculates\ the\ number\ of\ each\ letter\ in\ a\ long\ series\ of\ inputs\ from\ the\ user</h2>\n\n\ <h3>Problem\ Statement\:</h3>\n\ <p>Write\ a\ program\ that\ will\ read\ in\ multiple\ lines\ of\ text\ from\ the\ user\ and\ display\ a\ list\ of\ all\ the\ letters\ that\ occur\ in\ the\ text,\ along\ with\ the\ number\ of\ times\ each\ letter\ occurs.</p>\n\n\ <h3>Algorithm\:</h3>\n\ \n\ <ol>\n\ \ \ \ \ <li>Create\ a\ <b>scanner</b>\ named\ <code>in</code>\n\ \ \ \ \ <li>Create\ 2\ <b>list</b>s\ named\ <code>letter</code>\ and\ <code>number</code>\ initialized\ with\ the\ alphabet\ characters\ and\ 0s\ respectively\n\ \ \ \ \ <li>Create\ an\ empty\ <b>string</b>\ named\ <code>input</code>,\ along\ with\ an\ <b>int</b>\ named\ <code>i</code>\ set\ to\ 1\n\ \ \ \ \ <li>Ask\ user\ for\ several\ lines\ of\ text\ to\ analyze,\ adding\ valid\ inputs\ to\ <code>input</code>,\ and\ stops\ asking\ after\ a\ period\ is\ entered\n\ \ \ \ \ <li>Use\ <code>replaceAll</code>\ with\ <code>input</code>\ to\ remove\ all\ spaces,\ dashes,\ and\ commas\n\ \ \ \ \ <li>Create\ a\ <b>for</b>\ loop\ that\ repeats\ for\ as\ many\ characters\ there\ are\ in\ <code>input</code>\n\ \ \ \ \ <ul>\n\ \ \ \ \ \ \ \ \ <li>Call\ the\ <code>process</code>\ method\ with\ <code>input.charAt(j)</code>\ (<code>j</code>\ is\ the\ increasing\ variable),\ <code>letter</code>\ array\ and\ <code>number</code>\ array\ as\ the\ parameters\n\ \ \ \ \ </ul>\n\ \ \ \ \ <li>Call\ the\ <code>display</code>\ method\ with\ <code>letter</code>\ and\ <code>number</code>\ as\ the\ parameters,\ this\ will\ display\ the\ results\ to\ the\ user\n\ </ol>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 8,\ Homework\ Project\ 1\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=character\ letter\ number
+comment2.target=void\ process(char,\ char[],\ int[])
+comment3.params=letter\ number
+comment3.target=void\ display(char[],\ int[])
+numComments=4

@@ -1,0 +1,43 @@
+#BlueJ class context
+comment0.target=Temperature
+comment0.text=\n\ <h2>Temperature.java\ -\ Contains\ methods\ that\ will\ be\ utilized\ in\ ConversionTester.java\ class\ </h2>\n\n\ <h3>Instance\ variables\:</h3>\n\ <ul>\n\ \ \ \ \ <li>\ <code>degrees</code>\ (<b>double</b>)\ -\ number\ of\ degrees\ in\ this\ temperature\n\ \ \ \ \ <li>\ <code>scale</code>\ (<b>char</b>)\ -\ 'C'\ \=\ Celsius,\ 'F'\ \=\ Fahrenheit\n\ </ul>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 7\ Homework\ Project\ 3\n\n
+comment1.params=
+comment1.target=Temperature()
+comment1.text=\n\ Constructor\ w/o\ a\ parameter\ sets\ <code>degrees</code>\ to\ 0\ and\ <code>scale</code>\ to\ 'C'\n
+comment10.params=
+comment10.target=double\ getFahrenheit()
+comment10.text=\n\ Method\ that\ returns\ a\ fahrenheit\ value\ of\ the\ temperature\n\ @return\ <code>degrees</code>\ if\ <code>scale</code>\ is\ already\ 'F'.\ Otherwise,\ return\ <code>Math.Round</code>\ to\ round\ to\ 2\ decimal\ places\ with\ <code>degrees</code>\ as\ the\ 'C'\ in\ the\ formula\ F\ \=\ 9/5\ C\ +\ 32\ for\ all\ other\ cases\n
+comment11.params=
+comment11.target=double\ getCelsius()
+comment11.text=\n\ Method\ that\ returns\ a\ celsius\ value\ of\ the\ temperature\n\ @return\ <code>degrees</code>\ if\ <code>scale</code>\ is\ already\ 'C',\ otherwise\ return\ the\ <code>Math.Round</code>\ to\ round\ to\ 2\ decimal\ places\ with\ <code>degrees</code>\ as\ the\ 'F'\ in\ the\ formula\ C\ \=\ 9/5\ (\ F\ -\ 32\ )\n
+comment12.params=another
+comment12.target=boolean\ equals(Temperature)
+comment12.text=\n\n\ @param\ another\ is\ another\ <code>Temperature</code>\ object\n\ @return\ true\ if\ both\ of\ the\ celsius\ values\ are\ equal,\ otherwise\ return\ false\n
+comment13.params=
+comment13.target=java.lang.String\ toString()
+comment13.text=\n\ A\ method\ that\ returns\ a\ string\ with\ a\ Temperature\ object's\ relevant\ data\ presented\ in\ proper\ format\n\n\ @return\ a\ String\ that\ displays\ the\ <code>degree</code>\ value\ rounded\ to\ one\ decimal\ place,\ along\ with\ a\ degree\ symbol,\ and\ the\ <code>scale</code>\ value\ ('C'\ or\ 'F')\n
+comment2.params=degrees
+comment2.target=Temperature(double)
+comment2.text=\n\ Constructor\ with\ one\ parameter\n\ @param\ degrees\ is\ used\ to\ set\ <code>this.degrees</code>\ to,\ and\ <code>scale</code>\ is\ set\ to\ 'C'\ again\n
+comment3.params=scale
+comment3.target=Temperature(char)
+comment3.text=\n\ Constructor\ with\ one\ parameter\n\ @param\ scale\ is\ used\ to\ set\ <code>scale</code>\ to\ either\ 'C'\ or\ 'F',\ and\ <code>degrees</code>\ is\ set\ to\ 0\n
+comment4.params=degrees\ scale
+comment4.target=Temperature(double,\ char)
+comment4.text=\n\ Constructor\ with\ two\ parameters\n\ @param\ degrees\ is\ used\ to\ set\ <code>this.degrees</code>\ to\n\ @param\ scale\ is\ used\ to\ set\ <code>this.scale</code>\ to\n
+comment5.params=degrees
+comment5.target=void\ setDegrees(double)
+comment5.text=\n\ Setter\ for\ <code>degrees</code>\ variable\n\ @param\ degrees\ is\ used\ to\ set\ <code>this.degrees</code>\ to\n
+comment6.params=
+comment6.target=double\ getDegrees()
+comment6.text=\n\ Getter\ for\ the\ <code>degrees</code>\ variable\n\ @return\ degrees\ (double)\n
+comment7.params=scale
+comment7.target=void\ setScale(char)
+comment7.text=\n\ Setter\ for\ <code>scale</code>\ variable\n\ @param\ scale\ is\ used\ to\ set\ <code>this.scale</code>\ to\n
+comment8.params=
+comment8.target=char\ getScale()
+comment8.text=\n\ Getter\ for\ <code>scale</code>\ variable\n\ @return\ scale\ (double)\n
+comment9.params=degrees\ scale
+comment9.target=void\ setTemperatureAndScale(double,\ char)
+comment9.text=\n\ Setter\ for\ <code>degrees</code>\ and\ <code>scale</code>\n\ @param\ degrees\ will\ be\ utilized\ in\ a\ <code>setDegrees()</code>\ method\n\ @param\ scale\ will\ be\ utilized\ in\ a\ <code>setScale()</code>\ method\n
+numComments=14
