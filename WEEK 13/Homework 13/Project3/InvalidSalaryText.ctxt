@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InvalidSalaryText
+comment0.text=\n\ <h2>InvalidSalaryText.java\ -\ Error\ message</h2>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Homework\ 13,\ Project\ 3\n
+comment1.params=
+comment1.target=InvalidSalaryText()
+comment1.text=\n\ Constructor\ passes\ text\ to\ <b>super</b>\n
+comment2.params=message
+comment2.target=InvalidSalaryText(java.lang.String)
+comment2.text=\n\ Constructor\ w/\ parameter\n\ @param\ message\ -\ text\ passed\ to\ <b>super</b>\n
+numComments=3

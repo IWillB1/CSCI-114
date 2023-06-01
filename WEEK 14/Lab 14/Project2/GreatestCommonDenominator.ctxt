@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GreatestCommonDenominator
+comment0.text=\n\ <h2>GreatestCommonDenominator.java\ -\ Find\ GCD</h2>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 14,\ Lab\ project\ 2\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=int\ recursiveFindGCD(int,\ int)
+comment3.params=a\ b
+comment3.target=int\ iterativeFindGCD(int,\ int)
+numComments=4

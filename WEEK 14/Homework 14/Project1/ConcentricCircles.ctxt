@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ConcentricCircles
+comment0.text=\n\ <h2>ConcentricCircles.java\ -\ Draw\ a\ darker\ and\ smaller\ concentric\ circle\ stack\ with\ recursion</h2>\n\ <p>Instance\ variables\:</p>\n\ <ul>\n\ \ \ <li>startDiameter\ -\ the\ diameter\ of\ the\ initial\ (outer)\ circle</li>\n\ \ \ <li>deltaDiameter\ -\ the\ number\ of\ pixels\ (or\ percent)\ to\ decrease\ each\ smaller\ circle\ will\ be\ decreased</li>\n\ \ \ <li>xStart\ -\ the\ x-coordinate\ of\ the\ outer-most\ circle's\ upper-left\ corner</li>\n\ \ \ <li>yStart\ -\ the\ y-coordinate\ of\ the\ outer-most\ circle's\ upper-left\ corner</li>\n\ </ul>\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 14,\ Project\ 1\n
+comment1.params=startDiameter\ deltaDiameter\ startX\ startY
+comment1.target=ConcentricCircles(int,\ int,\ int,\ int)
+comment1.text=\n\ Constructor\ just\ sets\ the\ values\ of\ the\ four\ instance\ variables.\n\n\ @param\ start\ diameter\ (in\ pixels)\n\ @param\ number\ of\ pixels\ to\ reduce\ diameter\ in\ each\ call\n\ @param\ starting\ x-coordinate\ in\ JFrame\n\ @param\ starting\ y-coordinate\ in\ JFrame\n
+comment2.params=g2
+comment2.target=void\ drawFirst(java.awt.Graphics2D)
+comment2.text=\n\ Initial\ call\ to\ begin\ first\ type\ of\ recursion\ with\ the\ initial\ values\ (from\ the\ constructor)\n\ @param\ the\ graphics\ object\ to\ draw\ on\n
+comment3.params=g2
+comment3.target=void\ drawSecond(java.awt.Graphics2D)
+comment3.text=\n\ Initial\ call\ to\ begin\ second\ type\ of\ recursion\ with\ the\ initial\ values\ (from\ the\ constructor)\n\ @param\ the\ graphics\ object\ to\ draw\ on\n
+comment4.params=diameter\ xCorner\ yCorner\ g2
+comment4.target=void\ drawFirstCircles(int,\ int,\ int,\ java.awt.Graphics2D)
+comment4.text=\n\ Recursive\ method\ to\ draw\ concentric\ circles.\ \ Base\ case\ is\ when\ the\ diameter\ is\ less\ than\ 20\ pixels,\ decreasing\ size\ by\ 20px\ and\ shade\ by\ 20\ hues\ each\ time.\n\ @param\ the\ diameter\ (in\ pixels)\ of\ circle\ to\ draw\n\ @param\ upper-left\ x-coordinate\ of\ circle\n\ @param\ upper-right\ y-coordinate\ of\ circle\n\ @param\ graphics\ object\ on\ which\ to\ draw\ circle\n
+comment5.params=diameter\ xCorner\ yCorner\ g2
+comment5.target=void\ drawSecondCircles(int,\ int,\ int,\ java.awt.Graphics2D)
+comment5.text=\n\ Recursive\ method\ to\ draw\ concentric\ circles.\ \ Base\ case\ is\ when\ the\ diameter\ is\ less\ than\ 20\ pixels,\ decreasing\ size\ by\ 10%\ and\ shade\ by\ 10%\ each\ time\n\ @param\ the\ diameter\ (in\ pixels)\ of\ circle\ to\ draw\n\ @param\ upper-left\ x-coordinate\ of\ circle\n\ @param\ upper-right\ y-coordinate\ of\ circle\n\ @param\ graphics\ object\ on\ which\ to\ draw\ circle\n
+numComments=6

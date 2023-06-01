@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ <h2>Main.java\ -\ Check\ for\ palindromes</h2>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 14,\ Lab\ project\ 1\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=phrase
+comment2.target=boolean\ checkPalindromeRecursive(java.lang.String)
+comment3.params=phrase
+comment3.target=boolean\ checkPalindromeIterative(java.lang.String)
+numComments=4

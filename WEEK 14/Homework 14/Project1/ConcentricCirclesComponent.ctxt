@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ConcentricCirclesComponent
+comment0.text=\n\ <h2>ConcentricCirclesComponent.java\ -\ Draws\ two\ ConcentricCircles\ objects</h2>\n\ <p>Description\:\ Instantiate\ and\ place\ one\ concentric\ circle\ group\ on\ the\ left\ of\ a\ JFrame\ using\ the\ first\ recursive\ method,\ and\ another\ on\ the\ right\ using\ the\n\ second\ recursive\ method.</p>\n\n\ <ul>\n\ \ \ \ \ <li>Create\ the\ first\ <code>ConcentricCircles</code>\ object,\ with\ a\ diameter\ of\ 255,\ delta\ of\ 10,\ starting\ at\ (300,\ 35)\n\ \ \ \ \ <li>Invoke\ the\ <code>drawSecond</code>\ method,\ which\ will\ recursively\ draw\ concentric\ circles\ 10%\ smaller\ and\ of\ darker\ shade\ than\ that\ before\ it\ until\ the\ diameter\ is\ less\ than\ 20.\n\ \ \ \ \ <li>Create\ the\ second\ <code>ConcentricCircles</code>\ object,\ with\ a\ diameter\ of\ 255,\ delta\ of\ 20,\ starting\ at\ (50,\ 35)\n\ \ \ \ \ <li>Invoke\ the\ <code>drawFirst</code>\ method,\ which\ will\ recursively\ draw\ concentric\ circles\ 20px\ smaller\ and\ of\ darker\ shade\ than\ that\ before\ it\ until\ the\ diameter\ is\ less\ than\ 20.\n\ </ul>\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 14,\ Project\ 1\n
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+comment1.text=\n\ Overrides\ <code>paint</code>\ in\ <code>JComponent</code>\ class.\n\ @param\ g\ -\ <code>Graphics</code>\ object\ on\ which\ all\ the\ drawing\ is\ done\n
+numComments=2

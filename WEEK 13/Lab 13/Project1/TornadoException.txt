@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TornadoException
+comment0.text=\n\ <h2>TornadoException.java\ -\ An\ exception\ that\ occurs\ when\ a\ tornado\ appears</h2>\n\ \n\ <h3>Problem\ Statement\:</h3>\n\ <p>Design\ a\ class\ that\ notifies\ the\ user\ of\ a\ tornado\ approaching\ </p>\n\n\ <h3>Algorithm\:</h3>\n\ <p>In\ main\:</p>\n\ <ol>\n\ \ \ \ \ <li>Create\ an\ exception\ class\ named\ <b>TornadoException</b>\ \n\ \ \ \ \ <li>Create\ two\ constructors\ which\ allow\ <code><b>getMessage</b></code>\ to\ retrieve\ the\ message\n\ \ \ \ \ <li>The\ second\ constructor,\ which\ takes\ a\ single\ parameter,\ <>b>m</b>,\ of\ type\ <b>int</b>\n\ \ \ \ \ <li>If\ the\ exception\ is\ thrown\ using\ this\ constructor,\ then\ <b>getMessage</b>\ should\ retrieve\ message\n\ </ol>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 13\ Lab\ Project\ 1\n
+comment1.params=
+comment1.target=TornadoException()
+comment2.params=m
+comment2.target=TornadoException(int)
+numComments=3
