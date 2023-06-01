@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ <h2>Main.java\ -\ Creates\ two\ Robot\ objects\ that\ move\ in\ a\ 2-dimensional\ plane</h2>\n\n\ <h3>Problem\ Statement\:</h3>\n\ <p>Implement\ a\ class\ named\ Robot\ that\ simulates\ a\ robot\ wandering\ on\ an\ infinite\ two-dimensional\ plane.\ The\ robot\ is\ located\ at\ an\ X-Y\ point\ with\ coordinates\ and\ faces\ north,\ east,\ south,\ or\ west</p>\n\n\ <h3>Algorithm\:</h3>\n\ <p>In\ main\:</p>\n\ <ol>\n\ \ \ \ \ <li>create\ a\ <b>Robot</b>\ object\n\ \ \ \ \ <li>move\ two\ units\ to\ the\ north\ and\ display\ its\ current\ location\n\ \ \ \ \ <li>turn\ to\ the\ right,\ move\ two\ units,\ and\ display\ its\ location\n\ \ \ \ \ <li>turn\ to\ the\ left,\ move\ three\ units,\ and\ displays\ its\ location\n\ \ \ \ \ <li>create\ a\ second\ <b>Robot</b>\ object\n\ \ \ \ \ <li>turn\ the\ second\ robot\ to\ the\ left,\ move\ two\ units,\ and\ display\ its\ location\n\ \ \ \ \ <li>turn\ the\ second\ robot\ to\ the\ left\ again,\ move\ two\ units,\ and\ display\ its\ location\n\ </ol>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 10,\ Homework\ Project\ 1\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ <h2>Main.java\ -\ Creates\ many\ Players\ objects</h2>\n\n\ <h3>Problem\ Statement\:</h3>\n\ <p>Rewrite\ the\ given\ code\ so\ that\ it\ promotes\ encapsulation\ and\ uses\ inheritance\ to\ represent\ the\ different\ types\ of\ aliens\ instead\ of\ a\ \u201Ctype\u201D\ parameter.</p>\n\n\ <h3>Algorithm\:</h3>\n\ <p>In\ main\:</p>\n\ <ol>\n\ \ \ \ \ <li>create\ an\ array\ of\ <code>Player</code>\ named\ "team"\ which\ can\ hold\ up\ to\ 10\ <code>Player</code>\ objects.\n\ \ \ \ \ <li>add\ at\ least\ two\ of\ each\ type\ of\ <code>Player</code>\ (a\ AllStar,\ a\ Pro,\ and\ an\ Scrub)\ to\ the\ team\ array.\n\ \ \ \ \ <li>use\ the\ <code>printTeam</code>\ method\ to\ print\ report\ of\ all\ of\ the\ players\ in\ the\ team\ array.\ \ Use\ nicely-formatted\ columns\ labelled\ "Player\ Name",\ "Score"\ and\ "Class".\n\ \ \ \ \ <li>use\ the\ <code>calculateScore</code>\ method\ calculate\ the\ total\ score\ that\ the\ players\ in\ the\ team\ array\ can\ achieve,\ and\ print\ below\ the\ report.\n\ </ol>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 11,\ Homework\ Project\ 1\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=players
+comment2.target=void\ printTeam(Player[])
+comment3.params=team
+comment3.target=int\ calculateScore(Player[])
+numComments=4

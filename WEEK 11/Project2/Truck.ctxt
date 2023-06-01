@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Truck
+comment0.text=\n\ <h2>Truck.java\ -\ represents\ a\ Truck,\ which\ is\ a\ type\ of\ {@link\ Vehicle}</h2>\n\n\ <h3>Instance\ variables\:</h3>\n\n\ <ul>\n\ \ \ \ \ <li><b>double</b>\ loadCapacity\ -\ How\ much\ a\ load\ it\ can\ hold\n\ \ \ \ \ <li><b>int</b>\ towCapacity\ -\ How\ much\ of\ a\ load\ it\ can\ tow\n\ </ul>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Homework\ 11,\ Project\ 2\n
+comment1.params=manufacturerName\ engineCylinders\ person\ loadCapacity\ towCapacity
+comment1.target=Truck(java.lang.String,\ int,\ Person,\ double,\ int)
+comment1.text=\n\ Constructor\ utilizes\ the\ <code>super</code>\ technique\ to\ set\ the\ first\ three,\ then\ instantiates\ the\ others\ to\ the\ specific\ <code>Truck</code>\n\ @param\ manufacturerName\ (<b>String</b>)\ -\ The\ name\ of\ the\ manufacturer\n\ @param\ engineCylinders\ (<b>int</b>)\ -\ How\ many\ engine\ cylinders\ it\ has\n\ @param\ person\ (<b>Person</b>)\ -\ Which\ <code>Person</code>\ object\ owns\ this\ vehicle\n\ @param\ loadCapacity\ (<b>double</b>)\ -\ How\ much\ of\ a\ load\ it\ can\ hold.\ Set\ to\ <code>this.loadCapacity</code>\n\ @param\ towCapacity\ (<b>int</b>)\ -\ How\ much\ of\ a\ load\ it\ can\ tow.\ Set\ to\ <code>this.towCapacity</code>\n
+comment2.params=
+comment2.target=double\ getLoadCapacity()
+comment2.text=\n\ Getter\ for\ <code>loadCapacity</code>\n\ @return\ (<b>double</b>)\ loadCapacity\n
+comment3.params=loadCapacity
+comment3.target=void\ setLoadCapacity(double)
+comment3.text=\n\ Setter\ for\ <code>loadCapacity</code>\n\ @param\ loadCapacity\ sets\ <code>this.loadCapacity</code>\n
+comment4.params=
+comment4.target=int\ getTowCapacity()
+comment4.text=\n\ Getter\ for\ <code>towCapacity</code>\n\ @return\ (<b>int</b>)\ towCapacity\n
+comment5.params=towCapacity
+comment5.target=void\ setTowCapacity(int)
+comment5.text=\n\ Setter\ for\ <code>towCapacity</code>\n\ @param\ towCapacity\ sets\ <code>this.towCapacity</code>\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Creates\ and\ returns\ a\ string\ with\ useful\ values\n\ @return\ (<b>String</b>)\ of\ useful\ values\n
+comment7.params=other
+comment7.target=boolean\ equals(java.lang.Object)
+comment7.text=\n\ Equals\ method\ tests\ two\ objects\ and\ determines\ if\ they\ are\ the\ same\ (aka\ equal)\n\ @param\ other\ is\ an\ <b>Object</b>\ which\ is\ cast\ into\ a\ <code>Truck</code>\ so\ it\ can\ be\ compared\n\ @return\ (<b>Boolean</b>)\ which\ is\ <b>true</b>\ if\ the\ objects\ are\ the\ same,\ else\ return\ <b>false</b>\n
+numComments=8

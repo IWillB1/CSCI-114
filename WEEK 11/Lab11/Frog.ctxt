@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\n\ <h2>Frog.java\ -\ represents\ a\ Frog,\ which\ is\ a\ type\ of\ {@link\ Animal}</h2>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 11,\ Lab\ 11\n
+comment1.params=newName
+comment1.target=Frog(java.lang.String)
+comment1.text=\n\ Constructor\ for\ <b>Frog</b>\ object\n\ @param\ newName\ is\ a\ string\ that\ represents\ the\ name\ that\ will\ be\ set\ to\ the\ <b>Owl</b>\n
+comment2.params=
+comment2.target=void\ makeNoise()
+comment2.text=\n\ Cause\ this\ <b>Frog</b>\ to\ make\ some\ noise\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Get\ this\ <b>Frog</b>\ in\ <b>String</b>\ format\n\ @return\ This\ <b>Frog</b>\ as\ a\ <b>String</b>\n
+numComments=4

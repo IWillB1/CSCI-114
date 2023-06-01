@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ <h2>Main.java\ -\ Creates\ three\ HotDogStand\ objects</h2>\n\n\ <h3>Problem\ Statement\:</h3>\n\ <p>You\ operate\ several\ hot\ dog\ stands\ distributed\ throughout\ San\ Diego\ County.\ Implement\ a\ class\ named\ Main\ that\ creates\ three\ <code>HotDogStand</code>\ objects\ and\ tests\ methods\ related\ to\ the\ class</p>\n\n\ <h3>Algorithm\:</h3>\n\ <p>In\ main\:</p>\n\ <ol>\n\ \ \ \ \ <li>create\ three\ <b>HotDogStand</b>\ objects,\ instantiating\ them\ with\ a\ unique\ <code>id</code>\ and\ starting\ <code>sold</code>\ value\n\ \ \ \ \ <li>For\ each\ object,\ create\ a\ for\ loop\ each\ repeating\ a\ different\ amount\ that\ inside\ calls\ the\ <code>justSold</code>\ method\n\ \ \ \ \ <li>Display\ the\ total\ amount\ of\ hot\ dogs\ sold\ for\ each\ stand\ with\ the\ <code>toString</code>\ method\n\ \ \ \ \ <li>Display\ the\ total\ amount\ of\ all\ the\ hot\ dogs\ sold\ across\ all\ the\ stands\ using\ the\ <code>hotDogStandsTotal</code>\ method\n\ </ol>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 10,\ Homework\ Project\ 2\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

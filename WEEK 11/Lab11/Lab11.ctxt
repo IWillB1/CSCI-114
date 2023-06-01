@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Lab11
+comment0.text=\n\ <h2>Lab11.java\ -\ The\ class\ containing\ main\ for\ the\ eleventh\ lab</h2>\n\n\ <ol>\n\ \ \ \ \ <li>{@link\ Animal}\n\ \ \ \ \ <li>{@link\ Owl}\ {@link\ Frog}\n\ \ \ \ \ <li>Yes.\ The\ Object\ class.\n\ \ \ \ \ <li>Yes.\ The\ Animal\ overrides\ the\ default\ Object\ toString,\ and\ the\ Owl\ and\ Frog\ override\ the\ Animal\ toString.\ makeNoise\ is\ overriden\ in\ Owl\ and\ Frog.\ So\ is\ sleep.\n\ \ \ \ \ <li>Yes.\ It\ makes\ sense\ and\ will\ work\ properly\ because\ Frog\ has\ no\ new\ instance\ variables\ to\ compare.\n\ \ \ \ \ <li>Because\ the\ Owl\ class\ has\ an\ additional\ instance\ variable\ to\ check,\ <code>breed</code>\n\ \ \ \ \ <li>Yes\ you\ can,\ as\ they\ are\ all\ objects\ and\ can\ be\ compared\ using\ the\ equals\ method.\n\ \ \ \ \ <li>Yes\ they\ do,\ they\ belong\ to\ the\ default\ package.\n\ \ \ \ \ <li>No\ you\ would\ not\ need\ getters\ and\ setters,\ as\ they\ would\ all\ have\ access\ to\ the\ instance\ variables.\n\ </ol>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 11,\ Lab\ 11\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

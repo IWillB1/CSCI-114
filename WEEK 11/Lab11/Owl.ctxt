@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Owl
+comment0.text=\n\ <h2>Owl.java\ -\ represents\ a\ Owl,\ which\ is\ a\ type\ of\ {@link\ Animal}</h2></h2>\n\n\ <h3>Instance\ variable\:</h3>\n\ <ul>\n\ \ \ \ \ <li><b>String</b>\ breed\ -\ The\ breed\ of\ type\ of\ <b>Owl</b>\n\ </ul>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 11,\ Lab\ 11\n
+comment1.params=name\ breed
+comment1.target=Owl(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ the\ <b>Owl</b>\ method\n\ @param\ name\ -\ The\ name\ for\ the\ <b>Owl</b>\n\ @param\ breed\ -\ The\ breed\ for\ the\ <b>Owl</b>\n
+comment2.params=
+comment2.target=java.lang.String\ getBreed()
+comment2.text=\n\ Getter\ for\ the\ <b>Owl</b>'s\ breed\n\ @return\ breed\n
+comment3.params=breed
+comment3.target=void\ setBreed(java.lang.String)
+comment3.text=\n\ Setter\ for\ the\ <b>Owl</b>'s\ breed\n\ @param\ breed\n
+comment4.params=
+comment4.target=void\ makeNoise()
+comment4.text=\n\ Cause\ this\ <b>Owl</b>\ to\ make\ some\ noise\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Get\ this\ <b>Owl</b>\ in\ <b>String</b>\ format\n\ @return\ This\ <b>Owl</b>\ as\ a\ <b>String</b>\n
+comment6.params=other
+comment6.target=boolean\ equals(java.lang.Object)
+comment6.text=\n\ Is\ this\ <b>Owl</b>\ the\ same\ as\ another\ <b>Object</b>\n\ @param\ other\ The\ <b>Object</b>\ to\ compare\ to\ this\ <b>Owl</b>\n\ @return\ <b>True</b>\ if\ they\ are\ the\ same,\ else\ <b>False</b>\n
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ <h2>Main.java\ -\ Describe\ two\ vehicles,\ one\ an\ object\ of\ a\ Vehicle\ class,\ and\ the\ other\ a\ Truck\ (child\ of\ Vehicle)</h2>\n\n\ <h3>Problem\ Statement\:</h3>\n\ <p>Include\ a\ main\ method\ that\ invokes\ the\ methods\ of\ <code>Vehicle</code>,\ <code>Truck</code>,\ and\ <code>Truck</code>\ in\ your\ class.</p>\n\n\ <h3>Algorithm\:</h3>\n\ <p>In\ main\:</p>\n\ <ol>\n\ \ \ \ \ <li>Create\ two\ <code>Person</code>s,\ names\ of\ student\ and\ professor\n\ \ \ \ \ <li>Create\ a\ <code>Vehicle</code>\ with\ <code>professor</code>\ as\ the\ <code>Person</code>\ parameter\n\ \ \ \ \ <li>Create\ a\ <code>Truck</code>\ with\ <code>student</code>\ as\ the\ <code>Person</code>\ parameter\n\ \ \ \ \ <li>Display\ getters\ for\ both\ the\ <code>Truck</code>\ and\ <code>Vehicle</code>\n\ \ \ \ \ <li>Display\ the\ <code>equals</code>\ method\ results\ when\ comparing\ the\ two\ cars\n\ </ol>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 11,\ Homework\ Project\ 2\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

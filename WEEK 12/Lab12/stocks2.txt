@@ -1,0 +1,5 @@
+Apple,AAPL,101.80
+Alphabet,GOOGL,582.64
+IBM,IBM,129.58
+Microsoft,MSFT,43.78
+Oracle,ORCL,41.88

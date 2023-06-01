@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AllStar
+comment0.text=\n\ <h2>AllStar.java\ -\ Subclass\ of\ the\ Player.java\ class</h2>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 11,\ Homework\ Project\ 1\n\n
+comment1.params=name
+comment1.target=AllStar(java.lang.String)
+comment1.text=\n\ Constructor\ for\ this\ type\ of\ object\n\ @param\ name\ which\ uses\ <b>super</b>\ to\ set\ <code>name</code>\n
+comment2.params=
+comment2.target=int\ getScore()
+comment2.text=\n\ Getter\ for\ the\ score\ for\ this\ object\n\ @return\ an\ <b>int</b>\ which\ is\ how\ much\ score\ this\ object\ does\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ ToString\ method\ writes\ a\ string\ with\ useful\ information\n\ @return\ a\ <b>String</b>\ with\ the\ <code>name</code>\ and\ <code>damage</code>\ for\ this\ object\n
+numComments=4

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ <h2>Player.java\ -\ Contains\ methods\ that\ will\ be\ utilized\ in\ Main.java\ class\ </h2>\n\n\ <h3>Instance\ variables\:</h3>\n\ <ul>\n\ \ \ \ \ <li>\ <code>name</code>\ (<b>String</b>)\ -\ contains\ the\ name\ for\ the\ player\n\ </ul>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 11,\ Homework\ Project\ 1\n\n
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment1.text=\n\ Constructor\ for\ this\ type\ of\ object\n\ @param\ name\ which\ uses\ <b>super</b>\ to\ set\ <code>name</code>\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ A\ Getter\ for\ the\ <code>name</code>\ variable\n\ @return\ a\ <b>String</b>\ which\ is\ the\ name\n
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\n\ Setter\ for\ the\ <code>name</code>\ variable\n\ @param\ name\ sets\ <code>this.name</code>\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\n\ Getter\ for\ the\ score\ for\ this\ object\n\ @return\ an\ <b>int</b>\ which\ is\ how\ much\ the\ score\ this\ object\ does\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ ToString\ method\ writes\ a\ string\ with\ useful\ information\n\ @return\ a\ <b>String</b>\ with\ the\ <code>name</code>\ and\ <code>score</code>\ for\ this\ object\n
+comment6.params=anObject
+comment6.target=boolean\ equals(java.lang.Object)
+comment6.text=\n\ Equals\ method\ compares\ Players\n\ @param\ anObject\ is\ an\ <code>Object</code>is\ compared\ with\ another\ <code>player</code>\n\ @return\ <b>true</b>\ if\ they\ have\ both\ the\ same\ name\ and\ score,\ otherwise\ return\ <b>false</b>\n
+numComments=7

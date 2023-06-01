@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=HotDogStand
+comment0.text=\n\ <h2>HotDogStand.java\ -\ Contains\ methods\ that\ will\ be\ utilized\ in\ Main.java\ class\ </h2>\n\n\ <h3>Instance\ variables\:</h3>\n\ <ul>\n\ \ \ \ \ <li>\ <code>point</code>\ (<b>double</b>)\ -\ a\ <code>Point</code>\ object\ with\ <b>x</b>\ and\ <b>y</b>\ values\ that\ store\ the\ Robot's\ location\ in\ the\ 2-dimensional\ plane\n\ \ \ \ \ <li>\ <code>direction</code>\ (<b>char</b>)\ -\ contains\ a\ string\ with\ a\ character\ that\ represents\ either\ north,\ south,\ east\ or\ west\n\ </ul>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 10\ Homework,\ Project\ 2\n\n
+comment1.params=id\ sold
+comment1.target=HotDogStand(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ a\ <code>HotDogStand</code>\n\ @param\ id\ sets\ the\ <code>id</code>\ for\ the\ object\n\ @param\ sold\ sets\ the\ <code>sold</code>\ (amount\ of\ hot\ dogs\ sold\ that\ day)\ for\ the\ object\n
+comment2.params=
+comment2.target=void\ justSold()
+comment2.text=\n\ Method\ <code>justSold</code>\ increases\ <code>sold</code>\ and\ <code>soldTotal</code>\n
+comment3.params=hotDogStand
+comment3.target=boolean\ equals(HotDogStand)
+comment3.text=\n\ Compares\ the\ sales\ of\ two\ <code>HotDogStand</code>s\n\ @param\ hotDogStand\ object\n\ @return\ <b>true</b>\ if\ both\ the\ <code>sold</code>\ are\ equal,\ otherwise\ return\ <b>false</b>\n
+comment4.params=
+comment4.target=int\ hotDogStandTotal()
+comment4.text=\n\ Method\ to\ return\ the\ total\ hot\ dogs\ sold\ for\ the\ stand\n\ @return\ <code>sold</code>\n
+comment5.params=
+comment5.target=int\ hotDogStandsTotal()
+comment5.text=\n\ Method\ to\ return\ the\ total\ hot\ dogs\ sold\ by\ all\ stands\n\ @return\ <code>soldTotal</code>\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Method\ to\ return\ a\ <b>string</b>\n\ @return\ a\ <b>string</b>\ with\ <code>id</code>\ and\ <code>sold</code>\ variables,\ in\ a\ readable\ format\n
+numComments=7

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=StockMarket
+comment0.text=\n\ <h2>Manipulate\ a\ text\ file\ containing\ information\ about\ company\ stocks\ (company\ name,\ stock\ symbol,\ and\ stock\ price)</h2>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 12\ Lab\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fileName\ arrayToPopulate
+comment2.target=void\ readStocksWithScanner(java.lang.String,\ Stock[])
+comment2.text=\n\ Reads\ <b>Stock</b>s\ from\ the\ input\ file\ into\ the\ specified\ array\n\n\ @param\ fileName\ \ \ \ \ \ \ \ The\ name\ of\ the\ input\ text\ file\n\ @param\ arrayToPopulate\ A\ reference\ to\ the\ array\ to\ populate\n\ @throws\ Exception\ This\ method\ can\ throw\ an\ exception\n
+comment3.params=multiplier\ arrayToUpdate
+comment3.target=void\ updateStockPrices(double,\ Stock[])
+comment3.text=\n\ Method\ to\ update\ each\ <b>Stock</b>\ price\ in\ an\ array\n\n\ @param\ multiplier\ \ \ \ will\ be\ used\ to\ determine\ what\ to\ multiply\ each\ of\ the\ current\ stock\ prices\ by\n\ @param\ arrayToUpdate\ will\ be\ used\ to\ read\ through\ the\ array\n
+comment4.params=targetFile\ stockArray
+comment4.target=void\ writeStocks(java.lang.String,\ Stock[])
+comment4.text=\n\ Method\ to\ write\ <b>Stocks</b>\ from\ a\ given\ <b>Array</b>\ to\ a\ new\ file\n\n\ @param\ targetFile\ -\ Target\ file\ location\n\ @param\ stockArray\ -\ \ The\ array\ of\ <b>Stocks</b>\n\ @throws\ Exception\ -\ Throws\ exception\ if\ needed\n
+comment5.params=fileName\ arrayToPopulate
+comment5.target=void\ readStocksWithBufferedReader(java.lang.String,\ Stock[])
+comment5.text=\n\ Reading\ stocks\ with\ buffered\ reader\ for\ many\ ec\ points\n\n\ @param\ fileName\ -\ File\ name\ to\ write\ to\n\ @param\ arrayToPopulate\ -\ The\ array\ that\ the\ method\ will\ read\ from\n\ @throws\ Exception\ -\ Throws\ exception\ if\ needed\n
+numComments=6
