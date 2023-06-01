@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=JavaArt
+comment0.text=\n\ TextNinja.java\ -\ Print\ the\ outline\ of\ a\ ninja\ posing\ with\ sword\ on\ the\ console\n\ Author\:\ \ \ \ \ Will\ Bouasisavath\n\ Module\:\ \ \ \ \ 1\n\ Project\:\ \ \ \ Lab\ 1,\ Project\ 2\n\ Problem\ Statement\:\ \ Using\ a\ series\ of\ System.out.println()\ statements,\ print\n\ \ \ \ \ \ an\ outline\ of\ a\ ninja\ posing\ with\ sword\ on\ the\ console.\n\n\ Algorithm\:\n\ \ \ \ 1.\ \ Design\ Ninja\ on\ a\ piece\ of\ paper\ using\ printable\ characters.\n\ \ \ \ 2.\ \ Using\ System.out.println()\ statements,\ display\ the\ text\ on\ the\ console.\n\ \ \ \ 3.\ \ Test,\ run,\ \ make\ a\ print\ screen\ or\ snip\ of\ results,\ submit\ this\ file\ and\n\ \ \ \ \ \ \ \ the\ print\ screen\ or\ snip.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
