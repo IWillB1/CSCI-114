@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=
+comment1.target=double\ getRadius()
+comment2.params=inputRadius
+comment2.target=void\ setRadius(double)
+comment3.params=radius
+comment3.target=Circle(double)
+comment4.params=
+comment4.target=void\ calculatePerimeter()
+comment5.params=
+comment5.target=void\ calculateArea()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=circleObject
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8

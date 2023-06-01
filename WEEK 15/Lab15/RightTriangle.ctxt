@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RightTriangle
+comment0.text=\n\ \ <h2>RightTriangle.java\ -\ Create\ a\ class\ RightTriangle\ which\ is\ triangle\ with\ one\ of\ its\ angles\ equal\ to\ 90\u00BA\ \u2013\ a\ \u201Cright\ angle\u201D.</h2>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 15,\ Lab\ 1\n
+comment1.params=a\ b
+comment1.target=RightTriangle(double,\ double)
+comment2.params=a
+comment2.target=void\ setSide1(double)
+comment3.params=b
+comment3.target=void\ setSide2(double)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

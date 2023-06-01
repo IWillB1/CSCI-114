@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\n\ <h2>Square.java\ -\ Square\ a\ child\ of\ class\ Rectangle</h2>\n\n\ @author\ Will\ Bouasisavath\n\ @version\ @version\ Module\ 15,\ Lab\ 1\n
+comment1.params=side
+comment1.target=Square(double)
+comment1.text=\n\ Constructor\ for\ Square\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ toString\ method\n
+numComments=3

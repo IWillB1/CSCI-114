@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\n\ <h2>Circle.java\ -\ Circle\ a\ child\ of\ class\ Figure</h2>\n\n\ <p>Algorithm\:</p>\n\ <p>In\ main\:</p>\n\ <ol>\n\ \ \ \ \ <li>\ Create\ one\ instance\ variables\ <b>private\ double</b>,\ the\ radius\ of\ this\ circle\ object\n\ \ \ \ \ <li>\ Getters\ and\ Setters\ for\ the\ radius\ of\ the\ circle\ being\ described\n\ \ \ \ \ <li>\ One\ constructor\ which\ takes\ the\ radius\ of\ the\ circle\ as\ its\ lone\ parameter\n\ \ \ \ \ <li>\ A\ <b>toString()</b>\ method\ which\ shows\ the\ radius\ of\ the\ circle,\ its\ perimeter\ (or\ its\ \u201Ccircumference\u201D),\ and\ its\ area\ (All\ numbers\ should\ be\ printed\ to\ two\ decimal\ places)\n\ \ \ \ \ <li>\ An\ <b>equals(Object)</b>\ method\ which\ compares\ the\ radius\ of\ two\ circle\ objects\ and\ returns\ <b>true</b>\ if\ the\ radii\ are\ equal\n\ \ \ \ \ <li>\ A\ method\ named\ <b>calculatePerimiter</b>\ which\ calculates\ the\ perimeter\ of\ the\ circle\ and\ uses\ the\ setter\ method\ in\ <code><b>Figure</b></code>\ to\ store\ its\ value\ (Perimeter\ \=\ 2\ \u03C0\ r)\n\ \ \ \ \ <li>\ A\ method\ named\ <b>calculateArea</b>\ which\ computes\ the\ area\ of\ the\ circle\ and\ uses\ the\ setter\ method\ in\ \ Figure\ \ to\ store\ its\ value\ (Area\ \=\ \u03C0\ r2)\n\ </ol>\n\ \n\ @author\ Will\ Bouasisavath\n\ @version\ @version\ Module\ 15,\ Lab\ 1\n
+comment1.params=radius
+comment1.target=Circle(double)
+comment1.text=\n\ Constructor\ for\ Triangle\n
+comment2.params=radius
+comment2.target=void\ setRadius(double)
+comment2.text=\n\ Setter\ for\ Radius\n\ @param\ radius\ -\ sets\ <this.radius</code>\n
+comment3.params=
+comment3.target=double\ getRadius()
+comment3.text=\n\ Getter\ for\ Radius\n\ @return\ <code>radius</code>\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ toString\ Method\n
+comment5.params=objCircle
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\n\ Equals\ method\ for\ Object\ of\ Circle\n
+comment6.params=
+comment6.target=void\ calculatePerimeter()
+comment6.text=\n\ Method\ calculate\ the\ perimter\ of\ Circle\n
+comment7.params=
+comment7.target=void\ calculateArea()
+comment7.text=\n\ Method\ computes\ area\ of\ the\ Circle\n
+numComments=8

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Figure
+comment0.text=\n\ <h2>Figure.java\ -\ Parent\ class\ named\ figure</h2>\n\ \n<h3>Problem\ Statement\:</h3>\n\ <p>Create\ an\ \ <b><i>abstract</i></b>\ \ class\ called\ <code><b>Figure</b></code>,\ \ which\ is\ the\ ancestor\ of\ several\ concrete\ classes</p>\n\ \n\ <p>Algorithm\:</p>\n\ <p>In\ main\:</p>\n\ <ol>\n\ \ \ \ \ <li>\ Create\ two\ instance\ variables,\ both\ <b>private\ double</b>,\ named\ <b>area</b>\ and\ <b>perimeter</b>\n\ \ \ \ \ <li>\ a\ single\ constructor\ which\ takes\ no\ arguments\ and\ sets\ both\ instance\ variables\ to\ zero\n\ \ \ \ \ <li>\ getter\ (accessor)\ and\ setter\ (mutator)\ methods\ for\ the\ two\ instance\ variables\n\ \ \ \ \ <li>\ abstract\ methods\ with\ headings\ <b>public\ String\ toString()</b>\ \ and\ <b>public\ boolean\ equals(Object)</b>\n\ \ \ \ \ <li>\ abstract\ methods\ with\ headings\ <b>public\ void\ calculatePerimiter()</b>\ and\ <b>public\ void\ calculateArea()</b>\n\ \ \ \ \ <li>\ a\ method\ with\ signature\ public\ int\ <b>getNumberOfSides()</b>,\ \ which\ will\ return\ the\ number\ of\ sides\ for\ a\ specific\ shape\n\ </ol>\n\ \n\ @author\ Will\ Bouasisavath\n\ @version\ Module\ 15,\ Lab\ 1\n
+comment1.params=
+comment1.target=Figure()
+comment10.params=
+comment10.target=int\ getNumberOfSides()
+comment2.params=
+comment2.target=double\ getPerimeter()
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=newPerimeter
+comment4.target=void\ setPerimeter(double)
+comment5.params=newArea
+comment5.target=void\ setArea(double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=anObject
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=void\ calculatePerimeter()
+comment9.params=
+comment9.target=void\ calculateArea()
+numComments=11

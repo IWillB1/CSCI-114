@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RightTriangle
+comment1.params=lengthA\ lengthB
+comment1.target=RightTriangle(double,\ double)
+comment2.params=lengthA
+comment2.target=void\ setLengthA(double)
+comment3.params=lengthB
+comment3.target=void\ setLengthB(double)
+comment4.params=
+comment4.target=void\ calculateHypotenuse()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
