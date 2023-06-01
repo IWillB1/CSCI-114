@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BugTester
+comment0.text=\ \n\ BugTester.java\ -\ will\ utilize\ the\ objects\ from\ Bug\ class\n\ Author\:\ Will\ Bouasisavath\n\ Module\:\ 4\n\ Project\:\ Homework\ Project2\n\ Problem\ statement\:\ Implement\ a\ class\ named\ Bug\ that\ models\ a\ bug\ walking\ along\ a\ wire\n\ \n\ Algorithm\:\ \ \n\ \ \ \ \ \ 1.\ Create\ Two\ Bug,\ the\ first\ starting\ at\ 5\ and\ the\ second\ at\ 10.\n\ \ \ \ \ \ 2.\ Move\ the\ first\ bug\ 3\ times.\n\ \ \ \ \ \ 3.\ Print\ the\ position\ of\ the\ first\ bug.\n\ \ \ \ \ \ 4.\ Turn\ the\ second\ bug\ and\ move\ 2\ times.\n\ \ \ \ \ \ 5.\ Print\ the\ position\ of\ the\ second\ bug.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

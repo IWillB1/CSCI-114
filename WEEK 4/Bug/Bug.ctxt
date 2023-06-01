@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bug
+comment0.text=\n\ Bug.java\ -\ will\ utilize\ objects\ from\ Bug.java\ class\n\ Author\:\ Will\ Bouasisavath\n\ Module\:\ 4\n\ Project\:\ Homework\ Project2\ Bug\n\ Problem\ statement\:\ Implement\ a\ class\ named\ Bug\ that\ models\ a\ bug\ walking\ along\ a\ wire\n\ Algorithm\:\ \n\ \n\ Instance\ variables\:\n\ \ \ \ \ position\ (int),\ a\ number\ that\ represents\ where\ the\ bug\ is\ in\ 1d\ space\n\ \ \ \ \ direction\ (int),\ a\ number\ (initially\ 1,\ can\ be\ 1,\ or\ -1\ depending\ on\ if\ turn()\ is\ called)\ that\ decides\ which\ way\ the\ bug\ is\ going\ (positive/right,\ negative/left)\n\n\ Methods\:\n\ \ \ \ \ \ \ \ \ \ *\ \ Bug(),\ a\ typical\ constrcutor\ which\ take\ on\ the\ parameter\ initialPosition,\ and\ sets\ it\ to\ the\ position\ instance\ var.\n\ \ \ \ \ \ \ \ \ \ *\ \ getCurrentPosition()\ a\ getter\ for\ the\ position\ var\n\ \ \ \ \ \ \ \ \ \ *\ \ move()\ adds\ the\ direction\ variable\ to\ the\ position\ variable\n\ \ \ \ \ \ \ \ \ \ *\ \ turn()\ multiplies\ the\ direction\ variable\ by\ -1,\ which\ in\ turn\ changes\ the\ direction\n\ \ \ \ \ \ \ \ \ \ *\ \ toString()\ returns\ a\ string\ with\ the\ instance\ varibles\ listed\ in\ plain\ english.\ \n\ \n
+comment1.params=initialPosition
+comment1.target=Bug(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Bug\n
+comment2.params=
+comment2.target=int\ getCurrentPosition()
+comment2.text=\n\ Getter\ for\ position\n\n\ return\ position\ (int)\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\n\ Basically\ increases/decreases\ variable\n\n\ adds\ direction\ (could\ be\ either\ -1\ or\ 1)\ to\ variable\ position\n
+comment4.params=
+comment4.target=void\ turn()
+comment4.text=\n\ Swaps\ direction\n\n\ multiplies\ direction\ by\ -1\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ returns\ a\ string\ into\ text\ form\n
+numComments=6

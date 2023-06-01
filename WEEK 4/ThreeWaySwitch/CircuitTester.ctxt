@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CircuitTester
+comment0.text=\n\ CircuitTester.java\ -\ will\ utilize\ the\ objects\ from\ ThreeWaySwitch\ class\n\ Author\:\ Will\ Bouasisavath\n\ Module\:\ 4\n\ Project\:\ Homework\ Project1\n\ Problem\ statement\:\ Create\ a\ Java\ class\ which\ describes\ a\ 3-way\ light\ switch.\ Each\ object\ of\ this\ class\ will\ have\ two\ switches\ (up\ or\ down),\ then\ calculate\ the\ state\ of\ the\ light\ they\ control\ (on\ or\ off).\n\ \n\ Algorithm\:\ \ \n\ \ \ \ \ \ 1.Create\ four\ ThreeWaySwitch\ objects,\ each\ with\ different\ combo\ of\ starting\ switch\ patterns\n\ \ \ \ \ \ 2.Sequentially\ test\ the\ 4\ combos\ (up/down,\ down/up,\ up/up,\ down/down)\ for\ each\ of\ the\ objects,\ printing\ the\ results\ each\ time\ something\ is\ toggled.\ \n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
